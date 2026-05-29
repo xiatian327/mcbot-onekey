@@ -5,8 +5,8 @@
 
 const servers = [
   {
-    host: '15.235.144.77',
-    port: 13722,
+    host: '15.235.212.121',
+    port: 13827,
     // username: 'AFK_Bot',   // 可选，不写则随机
     // version: '1.21.1'     // 可选，不写则自动检测
   }
