@@ -5,7 +5,7 @@
 
 const servers = [
   {
-    host: 'frostwolfdefenders675.mcsh.io',
+    host: 'quantumcrafting381.mcsh.io',
     port: 25565,
     // username: 'AFK_Bot',   // 可选，不写则随机
     // version: '1.21.1'     // 可选，不写则自动检测
