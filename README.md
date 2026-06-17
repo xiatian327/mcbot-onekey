@@ -137,7 +137,7 @@ APP_DIR="mcbot-onekey"
 复制下面这一整行命令，在任意VPS服务器中执行：
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/mcbot-onekey/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/xiatian327/mcbot-onekey/main/install.sh)
 ```
 
 **记得把 `你的用户名` 替换成你实际的 GitHub 用户名！**
