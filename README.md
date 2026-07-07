@@ -225,7 +225,7 @@ pm2 restart mcbot
 ### 自动卸载
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/mcbot-onekey/main/uninstall.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/xiatian327/mcbot-onekey/main/uninstall.sh)
 ```
 
 ### 手动卸载
